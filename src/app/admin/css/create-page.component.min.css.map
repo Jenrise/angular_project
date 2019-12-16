@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAC,CACH,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,MAAM,CACf",
+    "sources": [
+        "../create-page/create-page.component.scss"
+    ],
+    "names": [],
+    "file": "create-page.component.min.css"
+}

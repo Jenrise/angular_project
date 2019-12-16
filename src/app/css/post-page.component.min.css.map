@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,KADG,CACH,OAAO,AAAC,CACN,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,aAAa,CAC9B,WAAW,CAAE,MAAM,CACpB,AALH,AAME,KANG,CAMH,GAAG,AAAC,CACF,aAAa,CAAE,KAAK,CACrB,AARH,AAUI,KAVC,CASH,KAAK,CACH,MAAM,AAAC,CACL,YAAY,CAAE,IAAI,CACnB",
+    "sources": [
+        "../post-page/post-page.component.scss"
+    ],
+    "names": [],
+    "file": "post-page.component.min.css"
+}

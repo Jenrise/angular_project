@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,AAAC,CACV,QAAQ,CAAE,KAAK,CACf,GAAG,CAAE,IAAI,CACT,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,KAAK,CACjB",
+    "sources": [
+        "../alert/alert.component.scss"
+    ],
+    "names": [],
+    "file": "alert.component.min.css"
+}
